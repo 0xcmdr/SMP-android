@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Akıllı Bitki Sistemi</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="baglan">BAĞLAN</string>
+    <string name="notconnect">Bağlantı Mevcut Değil.</string>
+    <string name="textBitki">Bitkinin Adı :</string>
+    <string name="textSicak">"Optimum Sıcaklık : "</string>
+    <string name="textNem">"Optimum Nem : "</string>
+    <string name="spinAralya">Aralya</string>
+    <string name="spinGladya">Gladya</string>
+    <string name="spinKroton">Kroton</string>
+
+    <string name="bitki_prompt">Bitki Seçin</string>
+
+    <string-array name="bitki_array">
+        <item>Aralya</item>
+        <item>Gladya</item>
+        <item>Kroton</item>
+    </string-array>
+
+</resources>
